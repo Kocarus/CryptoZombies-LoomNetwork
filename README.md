@@ -52,5 +52,5 @@ We would also want to grey out the user's zombies whose cooldown period had not 
 * **Lesson 5:** https://share.cryptozombies.io/en/lesson/5/share/Zoro?id=Z2l0aHVifDIxMzA2NTc1
 ![lesson5](https://i.imgur.com/FYqSO7b.png)
 
-* **Lesson 6:** https://share.cryptozombies.io/en/lesson/6/share/The_Phantom_of_Web3?id=Z2l0aHVifDI1Mjg2NzU1
+* **Lesson 6:** https://share.cryptozombies.io/en/lesson/6/share/Chopper?id=Z2l0aHVifDIxMzA2NTc1
 ![lesson6](https://i.imgur.com/bUBqXy7.png)
